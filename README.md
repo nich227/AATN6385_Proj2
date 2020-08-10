@@ -6,7 +6,7 @@ NOTE 1: This assumes you already have Maven and Java 11 installed. If not, follo
 2.	Copy the ```pom.xml``` file to the root of this folder.
 3.	Create new folders within this folder, with this structure: ```src/main/kotlin/com/cs6385```
 4.	Copy the ```NetworkReliability.kt``` and ```Runner.kt``` files to this folder.
-5.	Go back to the root project-1 folder and run 
+5.	Go back to the root project-2 folder and run 
 ```bash
 mvn clean package 
 ```
