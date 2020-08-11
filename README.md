@@ -11,6 +11,7 @@ NOTE 1: This assumes you already have Maven and Java 11 installed. If not, follo
 mvn clean package 
 ```
 in the terminal.
+
 6.	A new target folder should have been created after the build is successful. Go into this target folder and run in the terminal: 
 ```bash 
 java -jar project2-1.0-SNAPSHOT.jar <isKValue> <parameter>
